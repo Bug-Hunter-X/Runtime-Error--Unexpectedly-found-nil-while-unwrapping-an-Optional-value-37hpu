@@ -1,0 +1,1 @@
+This repository demonstrates a common Swift coding error involving optional values and force unwrapping. The `bug.swift` file contains code that will crash at runtime if the input array is empty.  The `bugSolution.swift` file provides a safe and robust solution using optional binding and the nil-coalescing operator.
